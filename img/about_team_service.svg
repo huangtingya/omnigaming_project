@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="89px" height="73px" viewBox="0 0 89 73" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 8</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="pc-1920-about" transform="translate(-1214.000000, -2958.000000)">
+            <g id="Group-8" transform="translate(1215.000000, 2959.000000)">
+                <path d="M87,4 C87,1.791 85.209,0 83,0 L4,0 C1.791,0 0,1.791 0,4 L0,67 C0,69.209 1.791,71 4,71 L83,71 C85.209,71 87,69.209 87,67 L87,4 Z" id="Stroke-1" stroke="#333333"></path>
+                <g id="Group-7" transform="translate(10.000000, 17.000000)">
+                    <polygon id="Fill-3" fill="#E6F1FB" points="14.078 33.625 61.109 33.625 61.109 2.25 14.078 2.25"></polygon>
+                    <polygon id="Stroke-5" stroke="#333333" points="8.891 33.625 58.891 33.625 58.891 0.25 8.891 0.25"></polygon>
+                    <polygon id="Stroke-6" stroke="#333333" points="0.891 37.125 66.891 37.125 66.891 35.125 0.891 35.125"></polygon>
+                    <polygon id="Fill-7" fill="#FFFFFF" points="17 5.25 24.25 5.25 24.25 4 17 4"></polygon>
+                    <polygon id="Fill-8" fill="#FFFFFF" points="17.109 30.75 24.359 30.75 24.359 29.5 17.109 29.5"></polygon>
+                    <polygon id="Fill-9" fill="#FFFFFF" points="17.109 27.75 24.359 27.75 24.359 7 17.109 7"></polygon>
+                    <polygon id="Fill-10" fill="#FFFFFF" points="27 5.25 56.8899994 5.25 56.8899994 4 27 4"></polygon>
+                    <polygon id="Fill-11" fill="#FFFFFF" points="27.023 30.75 56.891 30.75 56.891 7 27.023 7"></polygon>
+                    <path d="M27.0229,19.625 C29.1549,19.625 29.1549,25.625 31.2879,25.625 C33.4199,25.625 33.4199,19.625 35.5529,19.625 C37.6849,19.625 37.6849,25.625 39.8159,25.625 C41.9489,25.625 41.9489,19.625 44.0809,19.625 C46.2149,19.625 46.2149,25.625 48.3489,25.625 C50.4839,25.625 50.4839,19.625 52.6199,19.625 C54.7549,19.625 54.7549,25.625 56.8909,25.625" id="Stroke-12" stroke="#E6F1FB" stroke-width="0.5"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="88px" height="72px" viewBox="0 0 88 72" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>Page 1</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="pc-1920-about" transform="translate(-1214.000000, -2606.000000)">
+            <g id="Page-1" transform="translate(1214.000000, 2606.000000)">
+                <path d="M8,61.5 L77,61.5" id="Stroke-1" stroke="#E6F1FB" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M8,56.5 L77,56.5" id="Stroke-2" stroke="#E6F1FB" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M8,51.5 L77,51.5" id="Stroke-3" stroke="#E6F1FB" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M8,46.5 L77,46.5" id="Stroke-4" stroke="#E6F1FB" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M8,41.5 L77,41.5" id="Stroke-5" stroke="#E6F1FB" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M8,36.5 L77,36.5" id="Stroke-6" stroke="#E6F1FB" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M8,31.5 L77,31.5" id="Stroke-7" stroke="#E6F1FB" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M8,26.5 L77,26.5" id="Stroke-8" stroke="#E6F1FB" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M8,21.5 L77,21.5" id="Stroke-9" stroke="#E6F1FB" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M8,16.5 L77,16.5" id="Stroke-10" stroke="#E6F1FB" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M8,11.5 L77,11.5" id="Stroke-11" stroke="#E6F1FB" stroke-linecap="round" stroke-linejoin="round"></path>
+                <g id="Group-20" stroke="#333333">
+                    <path d="M87.5,4.5 C87.5,2.291 85.709,0.5 83.5,0.5 L4.5,0.5 C2.291,0.5 0.5,2.291 0.5,4.5 L0.5,67.5 C0.5,69.709 2.291,71.5 4.5,71.5 L83.5,71.5 C85.709,71.5 87.5,69.709 87.5,67.5 L87.5,4.5 Z" id="Stroke-12"></path>
+                    <polyline id="Stroke-14" stroke-linecap="round" stroke-linejoin="round" points="9 29.5 25.998 35.5 42.997 29.5 59.999 35.5 77 29.5"></polyline>
+                    <polyline id="Stroke-16" stroke-linecap="round" stroke-linejoin="round" points="8.6304 48.8208 26.4924 43.8678 42.8774 35.1968 60.7434 30.2418 77.1304 21.5708"></polyline>
+                    <polyline id="Stroke-18" stroke-linecap="round" stroke-linejoin="round" points="8.5768 53.5151 22.5678 53.0861 35.8718 48.7161 49.8638 48.2861 63.1718 43.9161 77.1728 43.4851"></polyline>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

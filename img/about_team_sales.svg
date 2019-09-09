@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="88px" height="72px" viewBox="0 0 88 72" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 2</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0 72 88 72 88 0 0 0"></polygon>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="pc-1920-about" transform="translate(-619.000000, -2606.000000)">
+            <g id="Group-2" transform="translate(619.000000, 2606.000000)">
+                <g id="Page-1">
+                    <path d="M87.5,4.5 C87.5,2.291 85.709,0.5 83.5,0.5 L4.5,0.5 C2.291,0.5 0.5,2.291 0.5,4.5 L0.5,67.5 C0.5,69.709 2.291,71.5 4.5,71.5 L83.5,71.5 C85.709,71.5 87.5,69.709 87.5,67.5 L87.5,4.5 Z" id="Stroke-1" stroke="#333333"></path>
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <g id="Clip-4"></g>
+                    <polygon id="Fill-3" fill="#E6F1FB" mask="url(#mask-2)" points="9.5 60.5 13.5 60.5 13.5 11.5 9.5 11.5"></polygon>
+                    <polygon id="Stroke-5" stroke="#E6F1FB" stroke-linecap="round" mask="url(#mask-2)" points="9.5 60.5 13.5 60.5 13.5 11.5 9.5 11.5"></polygon>
+                    <polygon id="Fill-6" fill="#E6F1FB" mask="url(#mask-2)" points="17.5 60.5 21.5 60.5 21.5 35.5 17.5 35.5"></polygon>
+                    <polygon id="Stroke-7" stroke="#E6F1FB" stroke-linecap="round" mask="url(#mask-2)" points="17.5 60.5 21.5 60.5 21.5 35.5 17.5 35.5"></polygon>
+                    <polygon id="Fill-8" fill="#E6F1FB" mask="url(#mask-2)" points="49.5 60.5 53.5 60.5 53.5 28.5 49.5 28.5"></polygon>
+                    <polygon id="Stroke-9" stroke="#E6F1FB" stroke-linecap="round" mask="url(#mask-2)" points="49.5 60.5 53.5 60.5 53.5 28.5 49.5 28.5"></polygon>
+                    <polygon id="Fill-10" fill="#E6F1FB" mask="url(#mask-2)" points="33.5 60.5 37.5 60.5 37.5 51.5 33.5 51.5"></polygon>
+                    <polygon id="Stroke-11" stroke="#E6F1FB" stroke-linecap="round" mask="url(#mask-2)" points="33.5 60.5 37.5 60.5 37.5 51.5 33.5 51.5"></polygon>
+                    <polygon id="Fill-12" fill="#E6F1FB" mask="url(#mask-2)" points="57.5 60.5 61.5 60.5 61.5 51.5 57.5 51.5"></polygon>
+                    <polygon id="Stroke-13" stroke="#E6F1FB" stroke-linecap="round" mask="url(#mask-2)" points="57.5 60.5 61.5 60.5 61.5 51.5 57.5 51.5"></polygon>
+                    <polygon id="Fill-14" fill="#E6F1FB" mask="url(#mask-2)" points="73.5 60.5 77.5 60.5 77.5 31.5 73.5 31.5"></polygon>
+                    <polygon id="Stroke-15" stroke="#E6F1FB" stroke-linecap="round" mask="url(#mask-2)" points="73.5 60.5 77.5 60.5 77.5 31.5 73.5 31.5"></polygon>
+                    <polygon id="Fill-16" fill="#E6F1FB" mask="url(#mask-2)" points="25.5 60.5 29.5 60.5 29.5 24.5 25.5 24.5"></polygon>
+                    <polygon id="Stroke-17" stroke="#E6F1FB" stroke-linecap="round" mask="url(#mask-2)" points="25.5 60.5 29.5 60.5 29.5 24.5 25.5 24.5"></polygon>
+                    <polygon id="Fill-18" fill="#E6F1FB" mask="url(#mask-2)" points="41.5 60.5 45.5 60.5 45.5 39.5 41.5 39.5"></polygon>
+                    <polygon id="Stroke-19" stroke="#E6F1FB" stroke-linecap="round" mask="url(#mask-2)" points="41.5 60.5 45.5 60.5 45.5 39.5 41.5 39.5"></polygon>
+                    <polygon id="Fill-20" fill="#E6F1FB" mask="url(#mask-2)" points="65.5 60.5 69.5 60.5 69.5 16.5 65.5 16.5"></polygon>
+                    <polygon id="Stroke-21" stroke="#E6F1FB" stroke-linecap="round" mask="url(#mask-2)" points="65.5 60.5 69.5 60.5 69.5 16.5 65.5 16.5"></polygon>
+                </g>
+                <path d="M79,61.5 L8,61.5" id="Stroke-22" stroke="#333333" stroke-linecap="round"></path>
+            </g>
+        </g>
+    </g>
+</svg>
